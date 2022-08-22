@@ -1,6 +1,6 @@
 package score
 
-import "git.resultys.com.br/lib/lower/collection/array"
+import "github.com/GeoinovaDev/lower-resultys/collection/array"
 
 // Score struct
 type Score struct {
